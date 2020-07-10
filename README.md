@@ -44,12 +44,6 @@ Question =>  "good afternoon"
 Answer ==> good afternoon
 
 
-**Example4:**
-
-Question =>  "good a"
-
-Answer ==> good afternoon
-
 
 
 
